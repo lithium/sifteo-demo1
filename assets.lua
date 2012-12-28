@@ -2,9 +2,11 @@ IconAssets = group{quality=9.95}
 Icon = image{"assets/icon.png"}
 
 
-BootstrapAssets = group{ quality=9.9 }
-Star = image{ "assets/star8.png", pinned=true }
-SfxConnect = sound{ "assets/connect.raw" }
+BootAssets = group{quality=9.9}
 Music = tracker{"assets/bitshift.xm"}
+Background = image{"assets/bg.png"}
 
--- Backgrounds = image{ "assets/bg.png", }
+DemoAssets = group{quality=9.95}
+Background = image{"assets/bg.png"}
+Star = image{"assets/star-8.png", pinned=true, width=8, height=8}
+
