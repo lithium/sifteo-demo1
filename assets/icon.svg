@@ -17,9 +17,9 @@
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="icon.svg"
    style="enable-background:new"
-   inkscape:export-filename="/Users/wiggins/Projects/sifteo/demo1/assets/icon.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/Users/wiggins/Projects/sifteo/demo2/assets/bg.png"
+   inkscape:export-xdpi="120"
+   inkscape:export-ydpi="120">
   <defs
      id="defs4">
     <linearGradient
@@ -1556,17 +1556,17 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="-39.384416"
+     inkscape:cx="-58.139026"
      inkscape:cy="55.322552"
      inkscape:document-units="px"
      inkscape:current-layer="g3217"
      showgrid="false"
      showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1285"
-     inkscape:window-height="967"
-     inkscape:window-x="422"
-     inkscape:window-y="64"
+     inkscape:window-width="1442"
+     inkscape:window-height="953"
+     inkscape:window-x="376"
+     inkscape:window-y="48"
      inkscape:window-maximized="0"
      gridtolerance="3"
      objecttolerance="9"
@@ -1597,7 +1597,7 @@
      id="layer2"
      inkscape:label="Background"
      sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:url(#linearGradient4833);fill-opacity:1;stroke:none;display:inline;enable-background:new"
        id="rect4176"
@@ -1612,7 +1612,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Text"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Hebrew;-inkscape-font-specification:Arial Hebrew"
@@ -1637,7 +1637,7 @@
          id="tspan3206"
          x="48.056538"
          y="21.628878"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Stone Sans ITC TT;-inkscape-font-specification:Stone Sans ITC TT Bold">1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Stone Sans ITC TT;-inkscape-font-specification:Stone Sans ITC TT Bold">2</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1650,9 +1650,20 @@
          x="39.951534"
          y="83.625633"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Stone Sans ITC TT;-inkscape-font-specification:Stone Sans ITC TT Bold">0.1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="98.287842"
+       y="124.63782"
+       id="text3207"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3209"
+         x="98.287842"
+         y="124.63782">L</tspan></text>
   </g>
   <g
-     style="opacity:0.03800001;display:none"
+     style="opacity:0.03800001;display:inline"
      inkscape:label="Opaque text"
      id="g3217"
      inkscape:groupmode="layer">
@@ -1680,7 +1691,7 @@
          y="21.628878"
          x="48.056538"
          id="tspan3225"
-         sodipodi:role="line">1</tspan></text>
+         sodipodi:role="line">2</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3227"
@@ -1726,7 +1737,7 @@
      id="layer4"
      inkscape:label="Corners"
      sodipodi:insensitive="true"
-     style="opacity:0.55;display:inline">
+     style="display:none">
     <path
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new"
        d="m -5.03125,-3.875 0,103.75 106.0625,0 0,-103.75 -106.0625,0 z M 14,0 82,0 c 7.75733,0 14,6.2426692 14,14 l 0,68 c 0,7.757332 -6.24267,14 -14,14 L 14,96 C 6.242669,96 0,89.757332 0,82 L 0,14 C 0,6.2426692 6.242669,0 14,0 z"
